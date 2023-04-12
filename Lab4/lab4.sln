@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4", "lab4\lab4.csproj", "{556CA942-B2F9-4D51-A3CC-11C4EBD26EE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8869F754-6BD5-4C6F-AC28-D57A8827D884}"
+	ProjectSection(SolutionItems) = preProject
+		GameEngine.cs = GameEngine.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556CA942-B2F9-4D51-A3CC-11C4EBD26EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556CA942-B2F9-4D51-A3CC-11C4EBD26EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556CA942-B2F9-4D51-A3CC-11C4EBD26EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556CA942-B2F9-4D51-A3CC-11C4EBD26EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7732D759-BCF4-44E4-AD96-4AA825567DAA}
+	EndGlobalSection
+EndGlobal
